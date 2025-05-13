@@ -13,7 +13,7 @@ from the **MNIST dataset**. Each image in the dataset is a 28×28 grayscale imag
 
 | 檔案 File              | 說明 Description                                 |
 |------------------------|--------------------------------------------------|
-| `writting_recong.ipynb`| 主要的 Jupyter Notebook，包含完整訓練流程<br>Main notebook with full training pipeline |
+| `writting_recogn.ipynb`| 主要的 Jupyter Notebook，包含完整訓練流程<br>Main notebook with full training pipeline |
 | `README.md`            | 本說明文件<br>This documentation file           |
 | `mnist_cnn_model.keras`| 已訓練完成的模型<br>Pre-trained model file      |
 
